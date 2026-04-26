@@ -8,10 +8,10 @@
     current_edu = "UPC"
     currently_learning = "Azure Biceps" "Advanced English"
     fun_fact = "I like the cyberpunk theme"
-        hobbies = [
-                     'Music',
-                     'Gaming',
-                     'Football'
+    hobbies = [
+                 'Music',
+                 'Gaming',
+                 'Football'
                         ]
         
         def getCountry():
