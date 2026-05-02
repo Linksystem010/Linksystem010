@@ -8,7 +8,6 @@
     degree = "Software Engineer - UPC"
     status = "Graduated"
     currently_learning = "Azure Biceps" "Advanced English"
-    fun_fact = "I like the cyberpunk theme"
     hobbies = [
                  'Music',
                  'Gaming',
