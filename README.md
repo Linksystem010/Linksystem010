@@ -51,11 +51,3 @@
 
 #### **Future Interests** 🚀
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-
-### ☕ Support My Journey
-
-> "My goals are currently small but measurable, but with your help, they will become much greater. Your support helps me as a growing programmer in the **IaC** industry to keep building, learning, and sharing. Every 'grain of sand' counts!"
-
-<a href='https://ko-fi.com/danielnovoa' target='_blank'>
-  <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-</a>
